@@ -1,0 +1,1 @@
+Bare bones example of including GATB in a project.
